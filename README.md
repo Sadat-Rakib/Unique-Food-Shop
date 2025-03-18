@@ -23,7 +23,7 @@ Modern UI: Clean, intuitive design that enhances the overall aesthetic and usabi
 ## Live Demo:
 
 Check out the live demo of the project here:
-[] 🔗
+[https://sadat-rakib.github.io/Unique-Food-Shop/] 🔗
 
 ## Contributions:
 
