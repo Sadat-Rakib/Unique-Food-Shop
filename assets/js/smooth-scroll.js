@@ -1,18 +1,3 @@
-/*==========
-
-Theme Name: Foodify - Food HTML5 Template
-Theme Version: 1.0
-
-==========*/
-
-/*==========
------ JS INDEX -----
-1.smooth scroll
-2.Scroll to top
-3.Scroll to Section
-==========*/
-
-
 // smooth scroll
 
 var html = document.documentElement;
